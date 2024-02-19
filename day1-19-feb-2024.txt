@@ -12,4 +12,20 @@ Python basics
 1. create vap/python
 folder
 
+C:\Users\Raghu Prasad\AppData\Local\Programs\Python\Python311
+
+www.kaushalya.tech
+git link
+repositories
+acharya-aiml-A
+https://github.com/raghuprasadks/acharya-aiml-A
+
+Data Analytics
+
+pandas
+matplotlib
+scikit-learn
+
+
+
 

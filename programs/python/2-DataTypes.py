@@ -16,5 +16,12 @@ for course in courselist:
 print("update")
 courselist[0]="C Program"
 courselist.pop()
+teledictionary={9845547471:"raghu",9845547472:"ravi"}
+print("dictionary ",teledictionary)
+print(" value of first element ",teledictionary[9845547471])
+
+
+
+
 
 
