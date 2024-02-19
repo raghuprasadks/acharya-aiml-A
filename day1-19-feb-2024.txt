@@ -1,0 +1,15 @@
+Agenda:
+
+1. Python
+2. Data Analytics
+Pandas,Numpy,Matplotlib
+2. Machine Learning algorithms
+Scikit-learn
+
+Steps:
+Python basics
+
+1. create vap/python
+folder
+
+
