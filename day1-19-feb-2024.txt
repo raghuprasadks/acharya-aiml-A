@@ -30,5 +30,15 @@ scikit-learn
 https://www.listendata.com/2017/12/python-pandas-tutorial.html
 
 
+Supervised Machine learning
+
+http://www.kaushalya.tech/
+https://www.analyticsvidhya.com/blog/2022/01/diabetes-prediction-using-machine-learning/
+
+https://www.kaggle.com/
+https://www.kaggle.com/code/khanfashee/medical-image-classification-for-beginner
+
+
+
 
 
